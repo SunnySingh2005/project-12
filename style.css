@@ -1,0 +1,219 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: gray;
+}
+.logo{
+    font-size: 20px;
+    font-weight: 800;
+}
+.nav{
+    display: flex;
+    gap: 50px;
+    font-size: 20px;
+    font-weight: 800;
+}
+.talk{
+    font-size: 20px;
+    font-weight: 800px;
+    border: 2px solid white;
+    padding: 10px 30px;
+    
+}
+.content{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: grey;
+    padding: 20px;
+}
+img[alt="group"]{
+    width: 400px;
+}
+
+.btn1{
+    background-color: white;
+    padding: 10px 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+input{
+    border: 0px;
+    
+}
+button{
+    background-color: rgb(39, 92, 39);
+    color: wheat;
+    border: 0px;
+    padding: 10px 20px;
+}
+
+h1{
+    font-size: 60px;
+    
+}
+p{
+    font-size: 15px;
+    color: aliceblue;
+}
+.pra{
+    color: black;
+    font-size: 20px;
+}
+h2{
+    font-size: 50px;
+    align-items: center;
+    margin-left: 400px;
+}
+
+.lists{
+    display: flex;
+    flex-direction: row;
+    font-size: 30px;
+    justify-content: space-around;
+    font-weight: bold;
+    align-items: center;
+}
+img[alt="imag"]{
+    width: 900px;
+    margin: 50px 220px;    
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+   
+    
+    
+}
+.heading{
+    font-size: 50px;
+    font-weight: 800;
+    margin-left: 450px;
+}
+img[alt="pic1"]{
+    width: 400px;
+    
+}
+h3{
+    font-size: 30px;
+}
+.lorem{
+    color: black;
+}
+.card1{
+    margin: 50px 100px;
+}
+.heading-1{
+    font-size: 40px;
+    font-weight: 800;
+    color: black;
+    margin-top: 150px;
+}
+.card-1{
+    display: flex;
+    gap: 50px;
+    /* padding: 0px 10px; */
+    
+    
+}
+img[alt="pic-2"]{
+    width: 450px;
+    /* height: 400px; */
+    margin: 130px;
+    
+}
+.lorem-1{
+    color: black;
+
+}
+.card2{
+    margin: 50px 0px;
+}
+
+.cards-2{
+    display: flex;
+    justify-content: space-around;
+}
+img[alt="pic-3"]{
+    width: 400px;
+    margin-right: 100px;
+}
+.heading-2{
+    font-size: 40px;
+    font-weight: 800;
+}
+.pra-1{
+    color: black;
+}
+.card-2{
+    margin-left: 200px;
+}
+.last-contant{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.heading-3{
+    font-size: 40px;
+    font-weight: 600;
+}
+.pra-3{
+    color: black;
+    font-size: 20px;
+}
+.cards-3{
+    display: flex;
+    padding: 20px 50px;
+    
+}
+img[alt="lady1"]{
+    width: 400px;
+}
+.card-3{
+    padding: 0px 10px;
+    align-items: center;
+}
+h5{
+    font-size: 20px;
+}
+.pra-4{
+    color: black;
+}
+.but-4{
+    align-items: center;
+    margin-left: 550px;
+}
+
+.logo{
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: gray;
+    height: 300px;
+
+}
+.list-2{
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+}
+.pra-5{
+    color:aliceblue;
+    font-size: 15px;
+    gap: 10px;
+
+}
+
